@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\x\documents\visual studio 2017\projects\operatingsystem\operatingsystem\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  OperatingSystem.vcxproj -> C:\Users\X\Documents\Visual Studio 2017\Projects\OperatingSystem\Debug\OperatingSystem.exe
